@@ -1,5 +1,5 @@
 -- Set your shell
-vim.opt.shell = 'zsh'
+-- vim.opt.shell = 'zsh'
 
 -- Set <space> as the leader key
 -- See `:help mapleader`
