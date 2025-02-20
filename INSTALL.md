@@ -14,6 +14,16 @@ sudo add-apt-repository --remove ppa:neovim-ppa/stable
 sudo apt-get update
 ```
 
+# Download and install nvm:
+
+```sh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+
+\. "$HOME/.nvm/nvm.sh"
+
+nvm install 22
+```
+
 ### Install Neovim with Kickstarter
 
 ```sh

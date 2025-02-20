@@ -6,8 +6,6 @@ return {
   { 'leonardo-luz/floatwindow.nvim' },
   { 'leonardo-luz/floatterminal.nvim' },
   { 'leonardo-luz/ai.nvim' },
-  { 'leonardo-luz/present.nvim' },
-  { 'leonardo-luz/ai.nvim' },
   { 'leonardo-luz/aichat.nvim' },
   {
     'leonardo-luz/type.nvim',
